@@ -41,7 +41,7 @@ body {
 main {
   background-color: var(--dark-blue-card-bg);
   text-align: center;
-  width: 18rem;
+  width: 16rem;
   border-radius: 10px;
 }
 
@@ -70,7 +70,7 @@ main {
 }
 
 .info h1 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
   letter-spacing: 0.2px;
@@ -81,7 +81,7 @@ main {
 }
 
 .info p {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   color: var(--transparent-white-paragraph);
 }
 
@@ -109,8 +109,7 @@ main {
 .attribution {
   color: var(--transparent-white-paragraph);
   font-size: 11px;
-  position: absolute;
-  bottom: 5px;
+  padding-top: 10px;
 }
 
 .attribution a {
